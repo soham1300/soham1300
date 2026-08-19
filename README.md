@@ -1,57 +1,85 @@
-<h2 align="left">Hi 👋! My name is Soham and I'm a Full stack Web dev , from Mumbai, India.</h2>
+# `Soham Bhogale`
 
-###
+> Full Stack Developer building things that live somewhere between **code, infrastructure & pixels.**
+
+```text
+Mumbai, India 🇮🇳
+
+01  BUILD       →  Web apps, APIs & developer tools
+02  EXPLORE     →  Medical imaging, 3D visualization & AI
+03  DEPLOY      →  Linux, Docker, cloud & storage
+04  BREAK       →  Things that worked 5 minutes ago
+05  FIX         →  Repeat
+```
+
+### `whoami`
+
+I'm **Soham** — a full-stack developer who likes going beyond the frontend.
+
+I enjoy taking an idea from **`React → API → Database → Infrastructure → Production`** and figuring out everything that breaks along the way.
+
+Currently building **NeuroViz**, a medical imaging platform for working with DICOM/NIfTI data, visualization and AI-powered workflows.
+
+### `current_stack`
+
+```yaml
+frontend:
+  - React
+  - JavaScript
+  - Vite
+  - Tailwind
+  - MUI
+
+backend:
+  - Node.js
+  - Express
+  - Django
+  - REST APIs
+
+data:
+  - MongoDB
+  - Redis
+  - Firebase
+
+infra:
+  - Linux
+  - Docker
+  - Google Cloud
+  - MinIO
+  - Git
+
+visualization:
+  - VTK.js
+  - NIfTI
+  - DICOM
+  - 3D Rendering
+```
+
+### `currently_exploring`
+
+🧠 Medical imaging & visualization
+⚙️ Distributed systems & infrastructure
+☁️ Self-hosted storage & backups
+🚀 Performance optimization
+🔬 AI/ML workflows
+
+### `github_activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham1300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=soham1300&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soham1300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=soham1300&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham1300&layout=compact&hide_border=true&theme=transparent" height="160"/>
+
 </div>
 
-###
+### `find_me`
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif"  />
+[LinkedIn](https://www.linkedin.com/in/soham-bhogale-182451223/) · [Instagram](https://www.instagram.com/sohambhogle/) · [Email](mailto:sohambhogale13@gmail.com)
 
-###
+```bash
+$ echo "keep building"
+keep building
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/sohambhogle/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:sohambhogale13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/soham-bhogale-182451223/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/soham1300/soham1300/output/snake.svg" alt="Snake animation" />
-
-###
+<sub>Most of the interesting stuff happens after `npm run dev`.</sub>
